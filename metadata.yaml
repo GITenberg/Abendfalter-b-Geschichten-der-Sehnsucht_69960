@@ -1,0 +1,24 @@
+_repo: Abendfalter-b-Geschichten-der-Sehnsucht_69960
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Busse-Palma, Georg
+    gutenberg_agent_id: '55515'
+    url: http://www.gutenberg.org/2009/agents/55515
+description: ''
+gutenberg_issued: '2023-02-05'
+identifiers:
+  gutenberg: '69960'
+language: de
+pgterms:marc905: 20220331114415bussepalma
+pgterms:marc906: '1902'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aGermany :$bHermann Seemann Nachfolger, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Abendfalter : $b Geschichten der Sehnsucht'
+url: http://www.gutenberg.org/ebooks/69960
